@@ -4,5 +4,5 @@
 
 html {
   font-family: "Poppins", sans-serif;
-  @apply antialiased;
+  @apply text-black antialiased;
 }

@@ -9,8 +9,8 @@ export default function App({ Component, pageProps }) {
         <title>Home</title>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true" />
-        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap" rel="stylesheet" />
-        <link href="/favicon.ico" rel="icon"/>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&display=swap" rel="stylesheet" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
       <Component {...pageProps} />
     </div>

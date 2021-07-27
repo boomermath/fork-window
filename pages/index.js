@@ -7,7 +7,7 @@ export default function Home() {
       <div className="block">
         <Leaflet header="Skimmex" className="hover:bg-red-500 border-red-500" href="https://www.youtube.com/channel/UCshd2Sc9wARF2whmQgW3hyw">
           Check out the <b>Skimmex</b> youtube channel. <br />
-          <b>Bedwars and More!</b>
+          <b>Skimmex#1400</b>
         </Leaflet>
         <Leaflet header="Toaster Cat" className="hover:bg-yellow-500 border-yellow-500" href="/toastyart.png">
           Cast your eyes upon an art masterpiece by <br /> <b>toaster cat#1259</b>
